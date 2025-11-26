@@ -377,6 +377,9 @@ A: 系统设置 → 隐私与安全性 → 允许运行此应用
   * `"trigger_state_update"`：根据对话更新 `state_snapshot`
   * `"trigger_perspective_move"`：T 引擎观点树推进
   * `"perspective_generate_engine"`：自动生成新的观点树结构
+* 观点树生成引擎（核心思想亮点）：
+
+  * `"perspective_generate_engine"`：让在哦demo带着一个新思想，推动对话，通过trigger_state_update收集的信息，这样相当于prompt是LLM调用生成的资料，解决方案又是用这个资料生成的prompt，最后递给人格引擎生成对话，就是LLM调用的三次方，这给回答带来的随意性，而这种随意性，又是符合对话场景的。导致对话常用常新（目前这个引擎的触发敏感度有点低，需要对话多轮，大家可以调一下敏感度）
 
 **要改风格 /立场 /语气：**
 → 直接在 `self.role_prompts` 对应键下修改那大段中文说明即可。
