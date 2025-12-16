@@ -1,0 +1,4 @@
+# 在哦 DEMO 配置（目前代码中尚未读取这个文件，预留给后续版本）
+llm_model: deepseek-chat
+trigger_interval: 9
+max_consecutive_triggers: 3

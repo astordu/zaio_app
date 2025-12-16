@@ -1,0 +1,48 @@
+{
+  "tree_id": "tree_2025-12-16_14-30-31",
+  "generated_at": "2025-12-16_14-30-31",
+  "root_id": "N0",
+  "current_node_id": "N0",
+  "nodes": {
+    "N0": {
+      "id": "N0",
+      "title": "先把主线捏出来",
+      "user_viewpoint": "你可能想聊点什么，但还没完全说清楚。",
+      "our_viewpoint": "我们先把‘你现在最想处理的那一件事’挑出来，再决定怎么聊。",
+      "potential_need": [
+        "确定主线",
+        "有人接住"
+      ],
+      "children": [
+        "N1"
+      ],
+      "is_end": false
+    },
+    "N1": {
+      "id": "N1",
+      "title": "拆一个最卡的点",
+      "user_viewpoint": "你开始说出困扰的细节，或者说出你真正的担心。",
+      "our_viewpoint": "我先帮你把最卡的那个点拆清楚：你在担心什么、你想要什么、你怕失去什么。",
+      "potential_need": [
+        "缓解焦虑",
+        "获得清晰感"
+      ],
+      "children": [
+        "N2"
+      ],
+      "is_end": false
+    },
+    "N2": {
+      "id": "N2",
+      "title": "给一个下一步",
+      "user_viewpoint": "你希望有个可执行的小动作，别只停在情绪里。",
+      "our_viewpoint": "我给你一个小到立刻能做的下一步：不求完美，只求开始动起来。",
+      "potential_need": [
+        "行动建议",
+        "被陪着执行"
+      ],
+      "children": [],
+      "is_end": true
+    }
+  }
+}

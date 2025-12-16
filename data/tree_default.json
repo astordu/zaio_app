@@ -1,0 +1,22 @@
+{
+  "id": "default_tree_v1",
+  "description": "一个极简的 3 节点默认观点树，用于 DEMO。",
+  "nodes": {
+    "root": {
+      "id": "P001",
+      "label": "先听一听发生了什么",
+      "next": "P002"
+    },
+    "P002": {
+      "id": "P002",
+      "label": "帮你理一理现在的状况",
+      "next": "P003"
+    },
+    "P003": {
+      "id": "P003",
+      "label": "一起看下一步可以怎么做",
+      "next": null
+    }
+  },
+  "start_id": "root"
+}

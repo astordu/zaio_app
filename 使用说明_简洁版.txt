@@ -1,0 +1,25 @@
+在哦 AI 测试版 - 使用说明（简洁版）
+
+1. 安装 Python 3.10+
+   https://www.python.org/downloads/
+
+2. 解压整个项目文件夹（保持 assets / config / data 结构不变）
+
+3. 进入项目文件夹（macOS 用 Terminal，Windows 用 CMD）
+   cd <你的项目路径>
+
+4. 安装依赖：衔接3，在打开的窗口中输入
+   pip install -r requirements.txt
+
+5. 启动程序：
+   python main.py
+
+6. 若出现窗口安全阻止（macOS）：
+   系统设置 → 隐私与安全性 → 允许运行
+
+7. 程序正常操作：
+   - 底部输入框可以直接聊天
+   - 右侧“输入 API KEY”按钮可修改 Key
+   - 长时间不说话时 AI 会主动回应
+
+如遇报错，将终端红字截图发给我即可。

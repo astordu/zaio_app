@@ -1,0 +1,32 @@
+{
+  "tree_id": "default_first_meet_v1",
+  "root_id": "N0",
+  "nodes": {
+    "N0": {
+      "id": "N0",
+      "title": "刚见面，先摸摸状态",
+      "user_viewpoint": "用户刚打开在哦，可能只是随便打个招呼，状态还不明确。",
+      "our_viewpoint": "先大致感受一下你现在的状态，再决定要陪你聊轻松的，还是帮你处理一点正事。",
+      "potential_need": [
+        "有人听一听",
+        "先暖个场再深入"
+      ],
+      "children": [
+        "N1"
+      ],
+      "is_end": false
+    },
+    "N1": {
+      "id": "N1",
+      "title": "一起定一个这次的主线",
+      "user_viewpoint": "用户已经表示出一个更明确的方向（比如倾诉/讨论某个观点/解决某个问题）。",
+      "our_viewpoint": "把这次对话的主线先捏一下：是陪你发发牢骚，还是一起拆一个问题，还是陪你脑暴点新东西。",
+      "potential_need": [
+        "确定主线",
+        "进入下一个主题树"
+      ],
+      "children": [],
+      "is_end": true
+    }
+  }
+}
