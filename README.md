@@ -11,6 +11,9 @@ https://www.bilibili.com/video/BV1TzUCBxEaz/?vd_source=7b7e42b072c6f1cec64e402f7
 
 https://m.tb.cn/h.7YCTqev
 
+**一个人摸爬滚打真的很心酸，请大家支持一下孩子**
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e0fd8a59-1a62-4a79-94e2-2dd8f4dcb386" />
+
 ## 项目概述
 
 **在哦 DEMO** 是一个创新的知识机器人，致力于成为一个 **主动沟通的智能体**。它不是传统意义上的智慧体，而是一个新型的对话媒介，通过深层交流帮助用户发现新的问题视角和知识洞见。
