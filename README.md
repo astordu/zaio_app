@@ -1,11 +1,19 @@
 # 在哦 DEMO - 主动沟通的知识机器人
-首先看：
+- 首先看：
 
-https://www.bilibili.com/video/BV1eXyHBaEJY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7b7e42b072c6f1cec64e402f737ceef3
+        【「在哦2025」我要卖下一代AI媒介-哔哩哔哩】 https://b23.tv/PGngjtE
 
-进阶看：
+- 进阶看：
 
-https://www.bilibili.com/video/BV1TzUCBxEaz/?vd_source=7b7e42b072c6f1cec64e402f737ceef3
+        【「在哦demo」GIT项目解说-哔哩哔哩】 https://b23.tv/guFBNON
+
+- 感谢好友**舜岳同学**的宣传
+
+        【他不是 AI，是盯着你的灵魂镜！❤️‍🔥-哔哩哔哩】 https://b23.tv/mvVOnDr
+
+- 感谢好友**程序员少北晨**的宣传
+
+        【当AI娃娃机器人能够拥有人类的思维方式时？！-哔哩哔哩】 https://b23.tv/OY7S6mB
 
 **众筹地址**
 
